@@ -15,7 +15,7 @@ This project is an AI-powered **Traffic Monitoring System** using **YOLOv8** for
 ## 🚧 Facing File Size Issues on GitHub?
 While pushing this project to **GitHub**, I encountered **file size limits (100MB per file)**. The **output video file was too large**, so I uploaded the project to **Google Drive** instead.
 
-📂 **Project Files:** [[Google Drive Link](https://drive.google.com/drive/folders/1LDGSDNwpSDCQMip7kls9NSDTNLJ4tnfT?usp=sharing)
+📂 **Project Files:** [[Google Drive Link](https://drive.google.com/drive/folders/1LDGSDNwpSDCQMip7kls9NSDTNLJ4tnfT?usp=sharing)]
 
 ## 📩 How to Use
 1. Download the files from the above link.
